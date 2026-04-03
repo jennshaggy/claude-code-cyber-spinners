@@ -32,8 +32,17 @@ Just add the following block to your ~/.claude/settings.json file. Use "mode": "
   "Rainbowing tables",
   "Reversing shells",
   "Sanitizing inputs",
+  "Burping suites",
+  "Crossing site scripts",
+  "Firing walls",
+  "Virtualizing private networks",
+  "Bypassing mainframes",
+  "Overclocking the uplink",
+  "Compiling the payload",
+  "Mirroring the server"
   "Triaging alerts"
 ]
 ```
+
 Contributions:
 I'm opening this up for community vibes. If you have a verb that feels like a Sutherland monologue or a high-stakes packet capture, Open a Pull Request. Let’s hit 100 verbs.
