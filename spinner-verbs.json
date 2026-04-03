@@ -1,0 +1,28 @@
+{
+  "spinnerVerbs": {
+    "mode": "append",
+    "verbs": [
+      "Analyzing binaries",
+      "Attacking dictionaries",
+      "Blocking telemetry",
+      "Capturing packets",
+      "Cracking hashes",
+      "Deobfuscating",
+      "Discovering artifacts",
+      "Exploiting kernels",
+      "Extracting credentials",
+      "Hardening kernels",
+      "Hijacking libraries",
+      "Hopping VLANs",
+      "Inspecting schemas",
+      "Isolating hosts",
+      "Jobbing crons",
+      "Patching zero-days",
+      "Rainbowing tables",
+      "Reversing shells",
+      "Sanitizing inputs",
+      "Triaging alerts"
+      "Sutherlandizing the logs"
+    ]
+  }
+}
