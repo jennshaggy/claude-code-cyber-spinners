@@ -11,7 +11,7 @@ The recent Claude Code leak revealed 187 hardcoded "spinner verbs" (like Beboppi
 How to Install:
 Just add the following block to your ~/.claude/settings.json file. Use "mode": "append" so you don't lose the original 187 verbs—you'll just sprinkle these tactical ones into the mix.
 
-[
+```[
   "Analyzing binaries",
   "Attacking dictionaries",
   "Blocking telemetry",
@@ -33,6 +33,6 @@ Just add the following block to your ~/.claude/settings.json file. Use "mode": "
   "Sanitizing inputs",
   "Triaging alerts"
 ]
-
+```
 Contributions:
 I'm opening this up for community vibes. If you have a verb that feels like a Sutherland monologue or a high-stakes packet capture, Open a Pull Request. Let’s hit 100 verbs.
